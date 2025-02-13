@@ -29,12 +29,14 @@ Before running the project, ensure you have:
 ## Installation
 
 1. Clone the repository:
+   
    ```bash
-   git clone https://github.com/your-repo/leave-management.git
-   cd leave-management
+   git clone https://github.com/ravindusenavirathna/Leave-Management-System-using-NLP.git
+   cd Leave-Management-System-using-NLP
    ```
-2. Create a `.env` file in the project root and add your API key:
-   ```
+2. Create a **`.env`** file in the project root and add your API key:
+   
+   ```dotenv
    GEMINI_API_KEY=your_api_key_here
    ```
 
